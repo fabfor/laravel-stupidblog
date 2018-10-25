@@ -1,0 +1,46 @@
+.container{
+  width: 1200px;
+  margin: auto;
+}
+
+header{
+  background-color: #cecece;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+}
+
+main{
+  height: 50vh;
+}
+
+main > nav{
+  width: 30%;
+  float: left;
+  height: 100%;
+}
+
+main > div {
+  width: 70%;
+  float: left;
+  height: 100%;
+}
+
+.clear{
+  clear: both;
+}
+
+footer {
+  background-color: #cecece;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+}
+
+.importante{
+  color: red;
+}
+
+h1{
+  color:red;
+}
